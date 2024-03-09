@@ -13,6 +13,8 @@ public class personal
         System.out.println("I am " + age + " old" + ".");
         System.out.println("My salary is " + salary + ".");
         System.out.println("My phone number is " + mobile + ".");
+         System.out.println();
         System.out.println("My address is " + address + ".");
     }
+
 }
